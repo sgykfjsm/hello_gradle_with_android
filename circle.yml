@@ -1,15 +1,4 @@
-machine:
-    services:
-        - docker
-
-dependencies:
-    override:
-        - docker build -t test .
-
 test:
-    override:
-        - docker run test
-# test:
-#   override:
-#     - env | sort
-#     - ./gradlew test
+  override:
+    - env | sort
+    - ./gradlew test
