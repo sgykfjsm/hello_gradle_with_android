@@ -1,1 +1,2 @@
 - CircleCI: [![CircleCI](https://circleci.com/gh/sgykfjsm/hello_gradle_with_android.svg?style=svg)](https://circleci.com/gh/sgykfjsm/hello_gradle_with_android)
+- Travis-CI: [![Build Status](https://travis-ci.org/sgykfjsm/hello_gradle_with_android.svg?branch=master)](https://travis-ci.org/sgykfjsm/hello_gradle_with_android)

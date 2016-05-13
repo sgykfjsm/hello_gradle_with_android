@@ -9,4 +9,4 @@ android:
 before_install:
   - env | sort
 
-script: gradle test
+script: ./gradlew test
