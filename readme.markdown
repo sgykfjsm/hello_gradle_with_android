@@ -1,0 +1,1 @@
+- CircleCI: [![CircleCI](https://circleci.com/gh/sgykfjsm/hello_gradle_with_android.svg?style=svg)](https://circleci.com/gh/sgykfjsm/hello_gradle_with_android)
